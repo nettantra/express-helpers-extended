@@ -1,4 +1,4 @@
-var testHelper = require('./helpers.test.js');
+var testHelperExtended = require('./helpersExtended.test.js');
 console.log("all tests completed successfully!");
 
 var express = require("express");
