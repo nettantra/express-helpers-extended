@@ -35,8 +35,8 @@
   },
   "_id": "express-helpers-extended@0.1.0",
   "dist": {
-    "shasum": "1df93c4053f87b5d84dcaa09090bb07765e499fb"
+    "shasum": "ba5fba1e95bbb6aeb8f275c2bb653171d380be07"
   },
-  "_resolved": "git://github.com/nettantra/express-helpers-extended#76f7570bb79f68703be1b827e471b086eb4dfa08",
+  "_resolved": "git://github.com/nettantra/express-helpers-extended#333afe80509d4971ed7ad07f5ab771b2e2c0ccd3",
   "_from": "express-helpers-extended@git://github.com/nettantra/express-helpers-extended"
 }
